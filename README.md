@@ -27,7 +27,7 @@ It demonstrates object-oriented programming concepts such as classes, objects, a
    cd vaccination-center-OOP/src
    ```
 5. Compile and run:
-6. ```bash
+   ```bash
    javac VaccinationCenter.java
    java Main
    ```
