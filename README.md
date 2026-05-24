@@ -19,7 +19,7 @@ It demonstrates object-oriented programming concepts such as classes, objects, a
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/vaccination-center-OOP.git
+   git clone https://github.com/knoushifar/vaccination-center-OOP.git
 2. Navigate to the source folder:
    cd vaccination-center-OOP/src
 3. Compile and run:
