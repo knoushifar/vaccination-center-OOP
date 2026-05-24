@@ -19,12 +19,18 @@ It demonstrates object-oriented programming concepts such as classes, objects, a
 
 ## How to Run
 1. Clone the repository:
+   ```bash
    git clone https://github.com/knoushifar/vaccination-center-OOP.git
-2. Navigate to the source folder:
+   ```
+3. Navigate to the source folder:
+   ```bash
    cd vaccination-center-OOP/src
-3. Compile and run:
+   ```
+5. Compile and run:
+6. ```bash
    javac VaccinationCenter.java
    java Main
-
+   ```
+   
 ## License
 This project is intended for educational purposes. You may use or modify it with proper attribution.
